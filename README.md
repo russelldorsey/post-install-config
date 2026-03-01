@@ -28,6 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Configure User Settings
 - Configure Agents
+- Configure Users
 
 <h2>Configuration Steps</h2>
 
