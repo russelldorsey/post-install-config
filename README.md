@@ -27,6 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Departments
 - Configure Teams
 - Configure User Settings
+- Configure Agents
 
 <h2>Configuration Steps</h2>
 
