@@ -43,7 +43,7 @@ The Agent Panel, on the other hand, is where support staff handle daily ticket o
 <br />
 
 <p>
-<img width="956" height="1030" alt="Screenshot 2026-03-01 101917" src="https://github.com/user-attachments/assets/724b01ee-fa54-4164-bd9f-da84a432dabf" />
+<img width="954" height="1030" alt="Screenshot 2026-03-01 103556" src="https://github.com/user-attachments/assets/b773a1cc-bba7-4cfa-bf7f-b77a8a977121" />
 </p>
 <p>
 To add a Supreme Admin role—or create any new role—in osTicket, begin by logging in to the Admin Panel, which is where all system configuration and staff permissions are managed. Once logged in, click on the Agents tab and select Add New Role. On the Definition tab, enter a clear and descriptive name for the role, such as Supreme Admin, so it is easy to identify later.
