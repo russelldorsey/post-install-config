@@ -78,10 +78,10 @@ To add a new Team in osTicket, log in to the Admin Panel and click on the Agents
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="1033" alt="Screenshot 2026-03-01 114403" src="https://github.com/user-attachments/assets/780ab971-4e9a-494b-848f-5b526a293f06" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To add an Agent in osTicket, log in to the Admin Panel and select the Agents tab. Click Add New Agent (or Add New Staff Member, depending on your version). Enter the agent’s name, email address, and username, then create a password for their account. Next, open the Access tab to assign the agent to a Department, then choose the appropriate Role, which determines the permissions they will have in the system. While on the Access tab, carefully review the settings to ensure the agent has the correct permissions to handle tickets and tasks. If necessary, go to the Teams tab to add the agent to a specific team. Once everything is set up correctly, click Create or Save Changes to complete the process.
 </p>
 <br />
 
