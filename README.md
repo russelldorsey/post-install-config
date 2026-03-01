@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Admin Panel vs Agent Panel
 - Configure Roles
-- Item 3
+- Configure Departments
 - Item 4
 - Item 5
 
