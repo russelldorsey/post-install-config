@@ -29,6 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure User Settings
 - Configure Agents
 - Configure Users
+- Configure SLA's
 
 <h2>Configuration Steps</h2>
 
@@ -91,7 +92,15 @@ To add an Agent in osTicket, log in to the Admin Panel and select the Agents tab
 <img width="957" height="1036" alt="Screenshot 2026-03-01 121153" src="https://github.com/user-attachments/assets/3c53dcd9-4e3a-48c3-b2b4-bbd5fdbc051e" />
 </p>
 <p>
-To add a User in osTicket, log in to the Agent Panel, since users (also called end users) are managed from there rather than the Admin Panel. Click on the Users tab, then select Add User. Enter the user’s name and email address, which will be used for ticket communication and notifications. You can also add additional contact information if needed. Users are the people who submit support requests, so adding them allows agents to create and manage tickets on their behalf. After entering the required information, click Add User or Create to save the new user account.
+To add a User in osTicket, log in to the Agent Panel, as users (also called end users) are managed there rather than in the Admin Panel. Click on the Users tab, then select Add User. Enter the user’s name and email address, which will be used for ticket communication and notifications. You can also add additional contact information if needed. Users are the people who submit support requests, so adding them allows agents to create and manage tickets on their behalf. After entering the required information, click Add User or Create to save the new user account.
+</p>
+<br />
+
+<p>
+<img width="956" height="1037" alt="Screenshot 2026-03-01 122427" src="https://github.com/user-attachments/assets/b5a6cb99-38da-467a-b76a-a1ca8bad135b" />
+</p>
+<p>
+To add an SLA (Service Level Agreement) in osTicket, log in to the Admin Panel and click on the Manage tab, then select SLA. Click Add New SLA Plan to create a new SLA. Enter a name for the SLA (such as Sev-A, 24-Hour Response, or 48-Hour Resolution) and set the Grace Period, which defines how long agents have to respond to or resolve a ticket. You can also choose a Schedule, such as business hours or 24/7 coverage, to control when the SLA timer runs. SLA plans help ensure tickets are handled within specific time limits and allow the system to track overdue requests. After configuring the settings, click Add Plan or Save Changes to finish creating the SLA.
 </p>
 <br />
 
