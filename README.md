@@ -55,6 +55,30 @@ After reviewing the settings to ensure the correct access levels are selected, c
 <br />
 
 <p>
+<img width="954" height="1030" alt="Screenshot 2026-03-01 104103" src="https://github.com/user-attachments/assets/4e1d5efb-f94d-4e47-8323-8f0b31916771" />
+</p>
+<p>
+To add a new Department in osTicket, log in to the Admin Panel, click the Agents tab, then select Departments. Click Add New Department to begin. Enter a name for the department (such as SysAdmins, Support, or IT Help Desk) and, if needed, assign a Department Manager. You can also configure settings such as the department’s email address, ticket assignment options, and visibility. Departments help organize tickets by category or function, ensuring they are routed to the appropriate team. After reviewing the settings, click Create Department or Save Changes to finish.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
