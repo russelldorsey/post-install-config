@@ -50,7 +50,7 @@ To add a Supreme Admin role—or create any new role—in osTicket, begin by log
 
 Next, navigate to the Permissions tab. Here, you can control what users assigned to this role are allowed to do within the system. Under the Tickets and Tasks sections, check all permissions you want the role to have, such as viewing, creating, editing, assigning, closing, and deleting. Granting full permissions will allow the user to manage tickets and tasks without restrictions.
 
-After reviewing the settings to ensure the correct access levels are selected, click Add Role to create the role. Once the role is created, you can assign it to a staff member from the Agents section so they receive the designated permissions.
+After reviewing the settings to ensure the correct access levels are selected, click Add Role or Save Changes to create the role. Once the role is created, you can assign it to a staff member from the Agents section so they receive the designated permissions.
 </p>
 <br />
 
