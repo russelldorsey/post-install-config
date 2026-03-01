@@ -30,6 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Agents
 - Configure Users
 - Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -105,9 +106,9 @@ To add an SLA (Service Level Agreement) in osTicket, log in to the Admin Panel a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="1038" alt="Screenshot 2026-03-01 124259" src="https://github.com/user-attachments/assets/cc795f80-0334-4080-9492-e8f3e8ed98ee" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To add a Help Topic in osTicket, log in to the Admin Panel and click on the Manage tab, then select Help Topics. Click Add New Help Topic to create a new topic. Enter a clear name (such as Business Critical Outage, Password Reset, Software Issue, or Hardware Request). If you want to organize topics into categories, use the Parent Topic dropdown to select an existing parent topic. This allows you to create subtopics under a main category, which helps keep tickets organized and easier to manage. For example, you could create a parent topic called IT Support and add subtopics like Password Reset or Software Installation. Next, select the appropriate Department where tickets with this help topic should be routed. You can also assign a default SLA Plan, Priority, or Team if needed. Help Topics help automatically route and organize incoming tickets so they reach the correct staff. After reviewing the settings, click Add Topic or Save Changes to complete the process.
 </p>
 <br />
