@@ -87,10 +87,10 @@ To add an Agent in osTicket, log in to the Admin Panel and select the Agents tab
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="957" height="1036" alt="Screenshot 2026-03-01 121153" src="https://github.com/user-attachments/assets/3c53dcd9-4e3a-48c3-b2b4-bbd5fdbc051e" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To add a User in osTicket, log in to the Agent Panel, since users (also called end users) are managed from there rather than the Admin Panel. Click on the Users tab, then select Add User. Enter the user’s name and email address, which will be used for ticket communication and notifications. You can also add additional contact information if needed. Users are the people who submit support requests, so adding them allows agents to create and manage tickets on their behalf. After entering the required information, click Add User or Create to save the new user account.
 </p>
 <br />
 
