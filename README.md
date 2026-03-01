@@ -73,7 +73,7 @@ To add a new Team in osTicket, log in to the Admin Panel and click on the Agents
 <p>
 <img width="956" height="1039" alt="Screenshot 2026-03-01 112037" src="https://github.com/user-attachments/assets/f5f47c37-5395-4efa-ac45-5461a5f70d48" />
 </p>
-<p>To set up User Settings in osTicket, log in to the Admin Panel and click on the Settings tab, then select Users. In this section, you can configure how user accounts function within the help desk system. Choose whether users are required to register before submitting tickets (Check or Uncheck Registration Required: Require registration and login to create tickets), enable or disable email verification, and decide if users can create accounts automatically when they submit a ticket. You can also adjust authentication options and account management preferences. These settings control how customers interact with the system and help balance security with ease of access. After making your selections, click Save Changes to apply the updates. 
+<p>To set up User Settings in osTicket, log in to the Admin Panel and click on the Settings tab, then select Users. In this section, you can configure how user accounts function within the help desk system. Choose whether users are required to register before submitting tickets (check or uncheck Registration Required: Require registration and login to create tickets), enable or disable email verification, and decide if users can create accounts automatically when they submit a ticket. You can also adjust authentication options and account management preferences. These settings control how customers interact with the system and help balance security with ease of access. After making your selections, click Save Changes to apply the updates. 
 </p>
 <br />
 
