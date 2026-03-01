@@ -22,8 +22,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- osTicket Admin Panel vs Agent Panel
-- Item 2
+- Admin Panel vs Agent Panel
+- Configure Roles
 - Item 3
 - Item 4
 - Item 5
